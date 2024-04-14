@@ -1,6 +1,5 @@
 ### 💫 Hi, I'm Haniy Rasul
-Research & Development Intern at [SLT Digital LAB](https://www.sltdigitallab.lk/). <br>
-Engineer - EEE
+Freelance Research & Development Engieer at [SLT Digital LAB](https://www.sltdigitallab.lk/).
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=haniyrasul&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true)<br/>
